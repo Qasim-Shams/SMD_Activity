@@ -35,6 +35,12 @@ export default function HomeScreen() {
         <ThemedView style={styles.heroSection}>
           <AnimatedIcon />
           <ThemedText type="title" style={styles.title}>
+            Name: Muhammad Qasim Shams
+          </ThemedText>
+          <ThemedText type="title" style={styles.title}>
+            Role number: 23i-3044
+          </ThemedText>
+          <ThemedText type="title" style={styles.title}>
             Welcome to&nbsp;Expo
           </ThemedText>
         </ThemedView>
